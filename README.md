@@ -19,7 +19,7 @@ Is your system slowing down due to cluttered temporary files? The **Temp File Cl
 
 ## ⚡️ How to Use
 
-1. **Download the Temp File Cleaner**: [Click here to download](#).
+1. **Download the Temp File Cleaner**: [Click here to download](#CleanTempFilesWithRecycleBin.exe).
 2. **Run the Program**: Double-click on the `.exe` file.
 3. **Automatic Cleaning**: The program will start cleaning up the temporary files from the specified locations.
 
